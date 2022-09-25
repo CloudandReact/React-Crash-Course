@@ -2,6 +2,8 @@
 
 This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
 
+> **Info**:  I cloned and reset to a previous commit because I saw that there were some additions which changed the features. I may try to add a PR in the future.
+
 ## Usage
 
 ### Install dependencies
